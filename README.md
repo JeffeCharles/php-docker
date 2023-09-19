@@ -1,5 +1,8 @@
 # Using Docker to Setup a Basic Lamp Environment
 
+#TODO: update readme...
+
+
 A basic example of setting up a LAMP stack from scratch using Docker. 
 
 Create a file in your project directory called `docker-compose.yml` and add the following Docker settings:
